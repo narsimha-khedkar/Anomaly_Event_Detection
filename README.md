@@ -25,7 +25,7 @@ All the below libraries are required to run this code.
 ***
 
 
-![ ](/HW2/Pictures/Anomaly_events.png  "Anomaly Events")
+![ ](/Pictures/Anomaly_events.png  "Anomaly Events")
 
 **Find an appropriate window size and initial threshold.**
 
@@ -37,12 +37,12 @@ As you can see from the highlighted rows, we have selected the below rows for ha
 When **q = 80 & d = 400**, Anomaly Accuracy is 80.52 % & Normal Accuracy is 81.76%.  
 
 
-![ ](/HW2/Pictures/Accuracy_table.png  "Accuracy table")
+![ ](/Pictures/Accuracy_table.png  "Accuracy table")
 
 **Scatter Plot of Actual vs Calculated Anomaly Events .**
 
 ***
-![ ](/HW2/Pictures/Anomaly_Detection.png  "Anomaly Detection")
+![ ](/Pictures/Anomaly_Detection.png  "Anomaly Detection")
 
 
 
