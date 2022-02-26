@@ -1,17 +1,7 @@
 
-**Team**
+**Anomaly Event Detection**
 
 ***
-
-Narsimha Narayankhedkar (narayankhedkarn19@students.ecu.edu)  
-Denise Bruce(brucea02@students.ecu.edu)  
-Connor Bullard(bullardc21@students.ecu.edu)  
-
-**Group Homework 2**
-
-***
-
-Anomaly Event Detection  
 
 **Quick Start**
 
