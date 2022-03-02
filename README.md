@@ -1,7 +1,11 @@
 
-**Anomaly Event Detection**
-
+**Anomaly Event Detection**  
 ***
+Anomaly detection is one of the most interesting topic in data science. There are many approaches for solving that problem starting on simple global thresholds ending on advanced machine learning. 
+
+I will be implementing a sliding window algorithm on the Nitrates data for Anomaly Event Detection.
+
+
 
 **Quick Start**
 
@@ -13,7 +17,7 @@ Clone the repository, open ipynb file in Jupyter Notebook and run the code.
 
 ***
 
-All the below libraries are required to run this code.
+All the below libraries are required to run this code.  
 *pandas*  
 *numpy*  
 *PrettyTable*  
